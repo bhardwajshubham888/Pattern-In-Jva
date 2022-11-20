@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf3240cd-d75b-4786-be93-72122c4b949f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pattern In Jva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patter_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SourabSuklaStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SourabhSuklaPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SourabhSuklaPattern3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2EA5ea7o4vRWtpoOKXPDfuzefyP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "4a464e",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SourabhSuklaPattern2">
+    <configuration name="Patten_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patten_16" />
+      <module name="Pattern In Jva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_15" />
+      <module name="Pattern In Jva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SourabSuklaStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SourabSuklaStarPattern" />
+      <module name="Pattern In Jva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SourabhSuklaPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SourabhSuklaPattern2" />
+      <module name="Pattern In Jva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SourabhSuklaPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SourabhSuklaPattern3" />
+      <module name="Pattern In Jva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SourabhSuklaPattern2" />
+        <item itemvalue="Application.SourabSuklaStarPattern" />
+        <item itemvalue="Application.SourabhSuklaPattern3" />
+        <item itemvalue="Application.Patten_16" />
+        <item itemvalue="Application.Pattern_15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf3240cd-d75b-4786-be93-72122c4b949f" name="Changes" comment="" />
+      <created>1662025647519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662025647519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
